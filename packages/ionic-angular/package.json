@@ -25,7 +25,7 @@
     "migrations": "./migrations.json"
   },
   "dependencies": {
-    "@nxext/capacitor": "github:SimonCockx/nx-extensions#github-dep/packages/capacitator",
+    "@nxext/capacitor": "https://gitpkg.now.sh/SimonCockx/nx-extensions/packages/capacitor?github-dep",
     "@nrwl/devkit": "15.3.0"
   },
   "peerDependencies": {
