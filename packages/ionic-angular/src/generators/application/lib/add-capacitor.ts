@@ -1,5 +1,5 @@
 import { Tree } from '@nrwl/devkit';
-import { capacitorProjectGenerator } from '@nxext/capacitor';
+import { capacitorProjectGenerator } from '@simoncockx/capacitor';
 import { NormalizedSchema } from '../schema';
 
 export async function addCapacitor(host: Tree, options: NormalizedSchema) {
