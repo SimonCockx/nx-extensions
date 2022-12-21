@@ -1,4 +1,4 @@
-## @nxext/capacitor:cap
+## @simoncockx/capacitor:cap
 
 Run a Capacitor command
 
